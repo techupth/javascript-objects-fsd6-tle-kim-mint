@@ -7,7 +7,7 @@ const employee = {
   address: {
     street: "123 Main Street",
     city: "Cityville",
-    states: "Stateville",
+    state: "Stateville",
     country: "Countryland",
     postalCode: "12345",
   },
